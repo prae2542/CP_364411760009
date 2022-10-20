@@ -1,0 +1,5 @@
+More on Data Studio. Google launched Data Studio in March 2016 as part of the enterprise Google Analytics 360 suite,
+ with a free version that lets you turn your data into informative, easy-to-read, easy-to-share,
+ and fully customizable dashboards and reports. There are easy-to-use drag-and-drop features to customize reports
+ from various data sources, including Search Console,
+Google Analytics, Google Ads, and much more.
